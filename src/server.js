@@ -15,5 +15,5 @@ app.listen(process.env.PORT || 3000, (err) => {
 //1 - Instalar o express
 //2 - Executar o comando de build (npm run-script build) no terminal
 //3 - Vá em package.json e coloquei em "scripts": <"start": "node server.js",> com a vírgula no final
-//4 - Criar esta pasta (server.js) dentro de src, no mesmo nivel do index.js, e copiar o conteúdo daqui pr ela
+//4 - Criar esta pasta (server.js) dentro de src, no mesmo nivel do index.js, e copiar o conteúdo daqui pra ela
 //5 - Crar um Procfile na parte mais externa dos arquivos e escrever nele <web: node index.js>
