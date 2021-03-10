@@ -17,7 +17,7 @@ const SearchBar = ({ onFormSubmit }) => {
       <div className="search-bar ui segment">
         <form onSubmit={onSubmit} className="ui form">
           <div className="field">
-            <label>Pesquisa de video</label>
+            <label>Pesquisa de video testando Netlify</label>
             <input
               type="text"
               value={term}
